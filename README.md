@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UZK1wShuiyPrahNbz6-FT1x3tCazsH0x/view?usp=sharing)
 
-- ⚡ Fun fact **I do what according to the need of hour**
+- ⚡ Fun fact **I don't need a debugger, I just stare down my code until it confesses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
