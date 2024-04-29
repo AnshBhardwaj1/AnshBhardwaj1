@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 
-- 🔭 I’m currently working on [wrapyshop](https://wrapyshop.in/)
+- 🔭 I’m currently working on [Poplu](https://anshbhardwaj.me/)
 
-- 🌱 I’m currently learning **solidity, langchain**
+- 🌱 I’m currently learning **React, Node.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://anshbhardwaj.me/)
 
